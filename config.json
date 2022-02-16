@@ -1,0 +1,9 @@
+{
+	"ip":"ElegalGames.aternos.me",
+	"port": "24063",
+	"name": "Cucubot",
+	"auto-night-skip":"false",
+	"login-enabled":"fales",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
